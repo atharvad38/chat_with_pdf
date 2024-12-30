@@ -83,5 +83,6 @@ This will open the application in your default web browser.
 - **Tenacity** (For retry logic)
 - **Logging** (For error and info logging)
 
+![WhatsApp Image 2024-12-31 at 01 36 36_b895e6cd](https://github.com/user-attachments/assets/7d6441c3-662d-43e9-8033-4e15637585a6)
 
 
